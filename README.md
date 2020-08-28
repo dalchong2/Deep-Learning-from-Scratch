@@ -5,3 +5,5 @@
 08/05 Study basic things
 
 08/26 Study padas (Series, dataframe)
+
+08/28 Study tensorflow (linear regression)
